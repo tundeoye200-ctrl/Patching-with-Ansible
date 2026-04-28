@@ -37,3 +37,4 @@ This command will display the installed Nginx version, confirming that the patch
 * Outdated Nginx (if present) is removed
 * Latest Nginx package is installed via APT
 * Nginx service is enabled and running
+  this is playbook
